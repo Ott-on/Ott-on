@@ -24,19 +24,3 @@ Linguagens que utilizo no meu dia
   <img align="center" alt="Otton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" src="https://media.tenor.com/O4s6UInb7REAAAAi/orange-justice-sonic-the-hedgehog.gif">
 </div>
-
-##
-
-
-
-
-
-
-
-
-
-
-
-
-
-
