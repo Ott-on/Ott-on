@@ -18,9 +18,10 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ott-on&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 <div style="display: inline_block"><br>
-Linguagens que utilizo no meu dia
+
+### Linguagens que utilizo no meu dia
   
   ##
-  <img align="center" alt="Otton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Otton-Python" height="35" width="105" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="right" src="https://media.tenor.com/O4s6UInb7REAAAAi/orange-justice-sonic-the-hedgehog.gif">
 </div>
