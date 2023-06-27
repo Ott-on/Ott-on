@@ -3,6 +3,8 @@
 - Estudando Python
 - Pronouns: ele/dele
 
+##
+### Redes sociais:
 <div>
   <a href="https://instagram.com/otton_b" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -10,6 +12,8 @@
   <a href="https://www.linkedin.com/in/otton-vinicius-2a6545269" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+
+  ##
 </div>
 <a href="https://github.com/Ott-on">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=Ott-on&theme=radical" />
