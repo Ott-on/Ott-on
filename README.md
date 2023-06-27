@@ -12,10 +12,10 @@
   </a>
 </div>
 <a href="https://github.com/Ott-on">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Ott-on&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=Ott-on&theme=radical" />
 </a>
 <a href="https://github.com/Ott-on">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ott-on&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ott-on&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 <div style="display: inline_block"><br>
 
