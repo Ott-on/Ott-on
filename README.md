@@ -3,7 +3,6 @@
 - Estudando Python
 - Pronouns: ele/dele
 
-##
 ### Redes sociais:
 <div>
   <a href="https://instagram.com/otton_b" target="_blank">
