@@ -1,8 +1,5 @@
 ### Oi!! Me chamo Otton. Tudo bem?
 
-- Estudando Python
-- Pronouns: ele/dele
-
 ##
 ### Redes sociais:
 <div>
