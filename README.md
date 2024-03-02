@@ -12,7 +12,8 @@ Aqui neste perfil você poderá encontrar meus projetos, pessoais ou em grupo, e
 # 📊 Estatísticas do GitHub:
   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ott-on&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ott-on&theme=dark&hide_border=false) 
-    ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Ott-on&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Ott-on&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
