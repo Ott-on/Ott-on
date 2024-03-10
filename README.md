@@ -13,11 +13,19 @@ Aqui neste perfil você poderá encontrar meus projetos, pessoais ou em grupo, e
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ott-on&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Ott-on&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🗂️ Principais projetos:
+<a href="https://github.com/Vitor-Moura48/Estudo_de_Caso_03">
+  <img align="center" width="450" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-Moura48&repo=Estudo_de_Caso_03&theme=dark&hide" />
+</a>
 
+<a href="https://github.com/Ott-on/Sistema-de-Cadastro-de-Pacientes">
+  <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Ott-on&repo=Sistema-de-Cadastro-de-Pacientes&theme=dark&hide" />
+</a>
 
-<h3 align="left">📱 Para contato:</h3>
+# 📱 Para contato:
 <a href="https://www.linkedin.com/in/otton-vinicius-653386288/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Otton" height="30" width="40" /></a>
 </p>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=sds&icon=0&color=0)](https://visitcount.itsvg.in)
