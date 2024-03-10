@@ -15,11 +15,11 @@ Aqui neste perfil você poderá encontrar meus projetos, pessoais ou em grupo, e
 
 # 🗂️ Principais projetos:
 <a href="https://github.com/Vitor-Moura48/Estudo_de_Caso_03">
-  <img align="center" width="250" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-Moura48&repo=Estudo_de_Caso_03&theme=dark&hide" />
+  <img align="center" width="350" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-Moura48&repo=Estudo_de_Caso_03&theme=dark&hide" />
 </a>
 
 <a href="https://github.com/Ott-on/Sistema-de-Cadastro-de-Pacientes">
-  <img align="center" width="200" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Ott-on&repo=Sistema-de-Cadastro-de-Pacientes&theme=dark&hide" />
+  <img align="center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Ott-on&repo=Sistema-de-Cadastro-de-Pacientes&theme=dark&hide" />
 </a>
 
 # 📱 Para contato:
