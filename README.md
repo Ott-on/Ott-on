@@ -23,7 +23,7 @@ Aqui neste perfil você poderá encontrar meus projetos, pessoais ou em grupo, e
 </a>
 
 ## 📱 Para contato:
-<a href="https://www.linkedin.com/in/otton-vinícius/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Otton" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/otton-vinicius-653386288/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Otton" height="30" width="40" /></a>
 </p>
 
 ---
