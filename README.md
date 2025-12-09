@@ -11,6 +11,7 @@ Aqui neste perfil você poderá encontrar meus projetos, pessoais ou em grupo, e
 ## 💻 Linguagens e Ferramentas que venho aprendendo:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cs,dotnet,git,python,azure,aws,terraform,postgresql" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
 </p>
 
 ---
