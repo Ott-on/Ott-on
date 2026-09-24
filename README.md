@@ -4,62 +4,16 @@
 - Desde pequeno tenho um grande apreço pela tecnologia, por isso decidi cursar este curso.
 - Meu sonho é justamente a cada dia mais utilizar os conhecimentos que aprendi/aprenderei para criar produtos que possam ser utilizados e trazer benefícios para quem usá-los.
 
-Aqui neste perfil você poderá encontrar meus projetos, pessoais ou em grupo, e sendo assim, ver o meu progresso como amante da tecnologia 👇😄.
+Aqui você pode acompanhar alguns dos meus projetos, tanto pessoais quanto acadêmicos, e também um pouco da minha evolução na área de tecnologia. 🚀
 
----
+## 💻 Linguagens e Ferramentas
 
-## 💻 Linguagens e Ferramentas que venho aprendendo:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,python,azure,aws,terraform,postgresql" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=cs,dotnet,git,python,postgresql,docker" /> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" /> </p>
 
----
+## 🗂️ Principais projetos
 
-## 📊 Estatísticas do GitHub
+<table> <tr> <td width="50%"> <a href="https://github.com/Vitor-Moura48/celebrai-frontend"> <img src="https://img.shields.io/badge/Celebraí-181818?style=for-the-badge&logo=github&logoColor=white" /> </a> <p>🎉 Plataforma para gerenciamento de eventos, conectando clientes e fornecedores para orçamentos, avaliações e contratação de serviços.</p> </td> <td width="50%"> <a href="https://github.com/Ott-on/GerenciamentoCilindrosFront"> <img src="https://img.shields.io/badge/Gerenciamento%20de%20Cilindros-181818?style=for-the-badge&logo=github&logoColor=white" /> </a> <p>🏥 Sistema web para gerenciamento da logística e consumo de cilindros de oxigênio hospitalar, com controle de estoque, movimentações e indicadores.</p> </td> </tr> <tr> <td colspan="2" align="center"> <a href="https://github.com/Ott-on/tierlab-frontend"> <img src="https://img.shields.io/badge/TierLab-181818?style=for-the-badge&logo=github&logoColor=white" /> </a> <p>🎮 Plataforma mobile para criação e compartilhamento de tier lists de jogos, com biblioteca pessoal, avaliações e interações sociais.</p> </td> </tr> </table>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ott-on&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ott-on&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ott-on&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+## 📱 Para contato
 
----
-
-## 🗂️ Principais projetos 
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Vitor-Moura48/Estudo_de_Caso_03">
-        <img src="https://img.shields.io/badge/Convenience%20Swap-181818?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p>🛍️ Sistema acadêmico para troca de itens utilizando créditos por doações.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Ott-on/Sistema-de-Cadastro-de-Pacientes">
-        <img src="https://img.shields.io/badge/Cadastro%20de%20Pacientes-181818?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <p>🏥 Sistema simples para cadastro e gerenciamento de pacientes.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📱 Para contato:
-<a href="https://www.linkedin.com/in/ottonvinicius10/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
----
+<a href="https://www.linkedin.com/in/ottonvinicius10/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /> </a>
